@@ -1,0 +1,11 @@
+{
+  "name": "agent-orchestra",
+  "description": "Claude Code conducts Antigravity CLI (agy) and OpenCode (NVIDIA NIM) as one AI orchestra.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Buğra Yıldırım"
+  },
+  "homepage": "https://github.com/sbugrayy/agent-orchestra",
+  "repository": "https://github.com/sbugrayy/agent-orchestra",
+  "keywords": ["orchestra", "multi-agent", "antigravity", "agy", "opencode", "nvidia-nim"]
+}

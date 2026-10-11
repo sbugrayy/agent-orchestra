@@ -1,0 +1,6 @@
+// Templates are fragments inserted into other files, so they need not start with a heading.
+{
+  "default": true,
+  "MD013": false,
+  "MD041": false
+}

@@ -1,0 +1,14 @@
+{
+  "name": "agent-orchestra",
+  "owner": {
+    "name": "Buğra Yıldırım"
+  },
+  "description": "Set up an AI orchestra: Claude Code conducts Antigravity CLI and OpenCode.",
+  "plugins": [
+    {
+      "name": "agent-orchestra",
+      "source": "./",
+      "description": "Claude Code conducts Antigravity CLI (agy) and OpenCode (NVIDIA NIM) as one AI orchestra."
+    }
+  ]
+}
