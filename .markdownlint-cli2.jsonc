@@ -1,0 +1,11 @@
+{
+  "config": {
+    "default": true,
+    // Uzun satırlar Türkçe metinde ve tablolarda okunabilirliği bozmasın.
+    "MD013": false,
+    // Aynı başlık farklı bölümlerde tekrar edebilir (ör. TR/EN README).
+    "MD024": { "siblings_only": true }
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules/**"]
+}
