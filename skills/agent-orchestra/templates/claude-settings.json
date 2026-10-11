@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(opencode run:*)",
+      "Bash(opencode models:*)",
+      "Bash(opencode agent list:*)",
+      "Bash(opencode auth list:*)",
+      "Bash(opencode serve:*)",
+      "Bash(agy -p:*)",
+      "Bash(agy models:*)"
+    ]
+  }
+}
